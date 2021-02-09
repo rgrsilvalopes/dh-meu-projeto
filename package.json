@@ -1,0 +1,24 @@
+{
+  "name": "dh-meumodulo-rogeriolopes",
+  "version": "1.0.0",
+  "description": "meu primeiro modulo node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rgrsilvalopes/dh-meu-projeto.git"
+  },
+  "keywords": [
+    "rogerio",
+    "lopes",
+    "modulo"
+  ],
+  "author": "rogerio lopes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rgrsilvalopes/dh-meu-projeto/issues"
+  },
+  "homepage": "https://github.com/rgrsilvalopes/dh-meu-projeto#readme"
+}
